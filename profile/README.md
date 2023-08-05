@@ -14,7 +14,7 @@ Sci-Hook itself is not entirely open-source. It is not possible for us to do thi
 
 # Frequently Asked Questions
 
-❓ We've created a separate markdown file so you can view frequently asked questions in one place. In this markdown file, you can see frequently asked questions by category and search for answers to your question. If you can't find the answer to your question on this page, you can share your question with the community and developers on the [Sci-Hook GitHub Developer Forum](https://github.com/orgs/Sci-Hook/discussions "Sci-Hook GitHub Developer Forum"). Our development team or community developers will respond to your questions.
+❓ We've created a separate [markdown file](https://github.com/Sci-Hook/.github/blob/main/faq.md) so you can view frequently asked questions in one place. In this markdown file, you can see frequently asked questions by category and search for answers to your question. If you can't find the answer to your question on this page, you can share your question with the community and developers on the [Sci-Hook GitHub Developer Forum](https://github.com/orgs/Sci-Hook/discussions "Sci-Hook GitHub Developer Forum"). Our development team or community developers will respond to your questions.
 
 # Developer Forum
 
