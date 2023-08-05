@@ -4,7 +4,7 @@
 
 # Open-Source
 
-💚 At Sci-Hook, we strive to make our projects open-source. We value and embrace open-source. For this reason, we share all of our open-source projects as open -ource without any commercial or profit motive. We usually use our GitHub page to do this. You can freely use all the projects we share as open-source, provided that you adhere to the license and usage rules.
+💚 At Sci-Hook, we strive to make our projects open-source. We value and embrace open-source. For this reason, we share all of our open-source projects as open-source without any commercial or profit motive. We usually use our GitHub page to do this. You can freely use all the projects we share as open-source, provided that you adhere to the license and usage rules.
 
 Sci-Hook itself is not entirely open-source. It is not possible for us to do this because this could create security vulnerabilities. However, certain parts of Sci-Hook are open-source rather than the entire system. We will continue to share our newly developed systems as open-source as long as we do not mind sharing them.
 
