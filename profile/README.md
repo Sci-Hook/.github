@@ -8,6 +8,10 @@
 
 Sci-Hook itself is not entirely open-source. It is not possible for us to do this because this could create security vulnerabilities. However, certain parts of Sci-Hook are open-source rather than the entire system. We will continue to share our newly developed systems as open-source as long as we do not mind sharing them.
 
+For a list of all our open-source projects and more detailed information: https://opensource.scihook.org
+
+To get support about our open-source projects, submit your suggestions and present your own open-source projects: [opensource@scihook.org](mailto:opensource@scihook.org "opensource@scihook.org")
+
 # Report Bugs and Vulnerabilities
 
 🪲 We have a special system for you to report errors and vulnerabilities in Sci-Hook systems. Please only use this system. Do not try to send them to us on GitHub. We use our own system to track requests more regularly and not to share critical vulnerabilities publicly. For information on how to report bugs and vulnerabilities and get started with reporting, check out the [Sci-Hook Bug Hunter Program](http://bughunter.scihook.org "Sci-Hook Bug Hunter Program").
