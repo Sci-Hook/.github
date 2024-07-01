@@ -64,7 +64,7 @@ You can contact us in various ways. Contact us by choosing the communication met
 
 📬 Sci-Hook Support Center: https://support.scihook.org
 
-📬 Support e-mail address: [devsupport@scihook.org](mailto:devsupport@scihook.org "devsupport@scihook.org")
+📬 Support e-mail address: [developer@scihook.org](mailto:developer@scihook.org "developer@scihook.org")
 
 🌐 GitHub Developer Community: https://github.com/orgs/Sci-Hook/discussions
 
