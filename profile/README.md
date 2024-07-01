@@ -1,14 +1,14 @@
 ![](https://raw.githubusercontent.com/Sci-Hook/.github/main/profile/src/static/images/scihook-github-banner.png)
 
-👋 Welcome to Sci-Hook's official GitHub page. Sci-Hook Organization strives to keep science free, to develop open-source projects, and to bring science to everyone. You can use the codes on this page in various ways for your work. We've adjusted our GitHub page to make it more convenient for developers to use. Let's start!
+👋 Welcome to Sci-Hook's official GitHub page. Sci-Hook Organization strives to keep science free, to develop open source projects, and to bring science to everyone. You can use the codes on this page in various ways for your work. We've adjusted our GitHub page to make it more convenient for developers to use. Let's start!
 
-# Open-Source
+# Open Source
 
-💚 At Sci-Hook, we strive to make our projects open-source. We value and embrace open-source. For this reason, we share all of our open-source projects as open-source without any commercial or profit motive. We usually use our GitHub page to do this. You can freely use all the projects we share as open-source, provided that you adhere to the license and usage rules.
+💚 At Sci-Hook, we strive to make our projects open source. We value and embrace open source. For this reason, we share all of our open-source projects as open source without any commercial or profit motive. We usually use our GitHub page to do this. You can freely use all the projects we share as open source, provided that you adhere to the license and usage rules.
 
-For a list of all our open-source projects and more detailed information: https://opensource.scihook.org
+For a list of all our open source projects and more detailed information: https://opensource.scihook.org
 
-To get support about our open-source projects, submit your suggestions and present your own open-source projects: [opensource@scihook.org](mailto:opensource@scihook.org "opensource@scihook.org")
+To get support about our open source projects, submit your suggestions and present your own open source projects: [opensource@scihook.org](mailto:opensource@scihook.org "opensource@scihook.org")
 
 # Report Bugs and Vulnerabilities
 
